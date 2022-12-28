@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #container{
+    text-align: center;
+    padding-top: 50px;
+    
+  }
+  #show{
+  color: Blue;
+    font-size: 40px;
+    padding-top: 10%;
+    text-align: center;
+  }
